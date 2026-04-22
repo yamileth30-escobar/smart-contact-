@@ -1,0 +1,2 @@
+C:\Users\USER\source\repos\AgendaContactos\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\AgendaContactos\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
