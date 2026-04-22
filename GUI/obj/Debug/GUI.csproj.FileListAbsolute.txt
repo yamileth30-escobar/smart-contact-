@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\AgendaContactos\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\AgendaContactos\GUI\obj\Debug\AgendaContactos.GUI.Autenticacion.Login.resources
+C:\Users\USER\source\repos\AgendaContactos\GUI\obj\Debug\AgendaContactos.GUI.Categorias.EditarCategoria.resources
+C:\Users\USER\source\repos\AgendaContactos\GUI\obj\Debug\AgendaContactos.GUI.Categorias.ListadoCategorias.resources
+C:\Users\USER\source\repos\AgendaContactos\GUI\obj\Debug\AgendaContactos.GUI.Contactos.GestionContactos.resources
+C:\Users\USER\source\repos\AgendaContactos\GUI\obj\Debug\AgendaContactos.GUI.Contactos.RegistrarContacto.resources
+C:\Users\USER\source\repos\AgendaContactos\GUI\obj\Debug\AgendaContactos.GUI.MainForm.resources
+C:\Users\USER\source\repos\AgendaContactos\GUI\obj\Debug\AgendaContactos.GUI.Properties.Resources.resources
+C:\Users\USER\source\repos\AgendaContactos\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\AgendaContactos\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
